@@ -2,9 +2,13 @@
 
 This project aim to implement a flexible、ease to use and extent、powerful game framework.
 
-# Dependency
+# Package Dependency
 
 This project will depend my other open source library.
+
+You can clone the following `Github URL` to get the library you need or use the Unity3D's PackageManager to add the `PackageManager URL` into your project. 
+
+> There are dependencies between some package. So if you want to add package independently, you could go to the Package's Github URL to read more infomation.
 
 | Dependency | Github URL | PackageManager URL | Status |
 | -- | -- | -- | -- |
@@ -20,3 +24,12 @@ This project will depend my other open source library.
 | Unity-Pool |  |  | ~~NOT YET~~ |
 | ... |  |  |  |
 
+# Site
+
+Some package's principle or technical detail will be introduced in the following site. All the technical articles in the following site is writen in Chinese. If you need English version, let me know and I will support as soon as possible. 
+
+[https://www.unity3d.io](https://www.unity3d.io)
+
+# Thank
+
+Thanks for your reading.
