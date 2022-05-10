@@ -15,8 +15,8 @@ You can clone the following `Github URL` to get the library you need or use the 
 | Unity-Reflection | https://github.com/kakashiio/Unity-Reflection | https://github.com/kakashiio/Unity-Reflection.git#1.0.0 | `DONE` |
 | Unity-IOC | https://github.com/kakashiio/Unity-IOC | https://github.com/kakashiio/Unity-IOC.git#1.0.0 | `DONE(Minimum)` |
 | Unity-IOC-Unity | https://github.com/kakashiio/Unity-IOC-Unity | https://github.com/kakashiio/Unity-IOC-Unity.git#1.0.0 | `DONE` |
+| Unity-IOC-Event | https://github.com/kakashiio/Unity-IOC-Event | https://github.com/kakashiio/Unity-IOC-Event.git#1.0.0 | `DONE` |
 | Unity-Asset |  |  | `Developing` |
-| Unity-Event |  |  | ~~NOT YET~~ |
 | Unity-UI |  |  | ~~NOT YET~~ |
 | Unity-JSON |  |  | ~~NOT YET~~ |
 | Unity-Config |  |  | ~~NOT YET~~ |
