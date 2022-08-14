@@ -17,10 +17,10 @@ You can clone the following `Github URL` to get the library you need or use the 
 | Unity-IOC-Unity | https://github.com/kakashiio/Unity-IOC-Unity | https://github.com/kakashiio/Unity-IOC-Unity.git#1.0.0 | `DONE` |
 | Unity-IOC-Event | https://github.com/kakashiio/Unity-IOC-Event | https://github.com/kakashiio/Unity-IOC-Event.git#1.0.0 | `DONE` |
 | Unity-Async | https://github.com/kakashiio/Unity-Async | https://github.com/kakashiio/Unity-Async.git#1.0.0 | `DONE` |
+| Unity-Config | https://github.com/kakashiio/Unity-Config | https://github.com/kakashiio/Unity-Config.git#1.0.0 | `DONE` |
 | Unity-Asset |  |  | `Developing` |
 | Unity-UI |  |  | ~~NOT YET~~ |
 | Unity-JSON |  |  | ~~NOT YET~~ |
-| Unity-Config |  |  | ~~NOT YET~~ |
 | Unity-Socket |  |  | ~~NOT YET~~ |
 | Unity-HTTP |  |  | ~~NOT YET~~ |
 | Unity-Pool |  |  | ~~NOT YET~~ |
